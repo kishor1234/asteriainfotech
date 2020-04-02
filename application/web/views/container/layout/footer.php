@@ -133,7 +133,7 @@
             <div class="row copyright">
                 <div class="col-md-6">
                     <div class="">
-                        <span>Copyright © 2020&nbsp;<a href="#">Asteria Info Tech</a> </span>
+                        <span>Copyright © 2020&nbsp;<a href="#">Asteria Info Tech</a> Powered By <a href="aasksoft.co.in" title="Developer company" target="Blank">@askSoft pvt ltd</a></span>
                     </div>
                 </div>
                 <div class="col-md-6">
